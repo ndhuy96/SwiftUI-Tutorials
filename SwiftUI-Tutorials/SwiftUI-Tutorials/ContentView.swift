@@ -33,6 +33,13 @@ struct ContentView: View {
             }
             .padding(EdgeInsets(top: 16, leading: 32, bottom: 0, trailing: 32))
             Spacer()
+//            ZStack {
+//                Image("image1")
+//                Text("Hacking with Swift")
+//                    .font(.largeTitle)
+//                    .background(Color.black)
+//                    .foregroundColor(Color.white)
+//            }
         }
     }
 }
